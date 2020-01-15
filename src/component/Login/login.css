@@ -1,0 +1,27 @@
+.Bg-image {
+    text-align: center;
+    border-radius: 0cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 336px;
+    max-height: 356px;
+    padding-left: 200px;
+    margin-top: 100px;
+}
+
+input{
+    height: 4vh;
+    margin-top: 3vh;
+}
+
+button{
+    width: 15vh;
+    height: 5vh;
+    /* margin-top: 2vh; */
+    background-color: blue;
+    border-radius: 3vh;
+    border: none;
+    color: #FFFFFF;
+    font-family: cambria;
+    font-size: 2.5vh;
+    margin: 2vh 0;
+}
